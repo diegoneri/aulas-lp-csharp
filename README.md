@@ -20,7 +20,7 @@
 
 ## Site de apoio - Algoritmos e Lógica de Programaçao
 
-![Logo em cores da FATEC RL](https://github.com/diegoneri/aulas-ds-spring-boot/logo/fatec_rl-cor.png)
+![Logo em cores da FATEC RL](content/fatec_rl-cor.png)
 
 ### [FATEC Rubens Lara](https://fatecrl.edu.br/) - [Sistemas para Internet](https://fatecrl.edu.br/cursos/sistemas-para-internet/)
 
