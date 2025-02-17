@@ -8,7 +8,7 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 
 | Enunciado                                           | Correção                                                                                                                                                         | Extras                                     |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [EtecAB](#Exercício-EtecAB)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=1290s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EtecAB/Program.cs)             |
+| [FatecRL](#Exercício-FatecRL)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=1290s) • GitHub - _TBD_             |
 | [OlaMundo](#Exercício-OlaMundo)                     | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2050s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/OlaMundo/Program.cs)           |
 | [Cidades](#Exercício-Cidades)                       | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2451s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Cidades/Program.cs)            |
 | [Musica](#Exercício-Musica)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2674s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Musica/Program.cs)             |
@@ -33,15 +33,15 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 
 ---
 
-## Exercício `EtecAB`
+## Exercício `FatecRL`
 
-Faça um programa que exiba o nome da sua escola: `Etec Adolpho Berezin`.
+Faça um programa que exiba o nome da sua faculdade: `FATEC Rubens Lara (Baixada Santista)`.
 
 ---
 
 ## Exercício `OlaMundo`
 
-Faça um programa que exiba `Olá usuário, eu me chamo Ermogenes!` (utilize o seu nome).
+Faça um programa que exiba `Olá usuário, eu me chamo Diego!` (utilize o seu nome).
 
 ---
 
@@ -93,9 +93,9 @@ Ref.: outras artes [aqui](https://www.asciiart.eu/) e [aqui](http://patorjk.com/
 Exiba seu nome enquadrado em uma caixa, como no exemplo abaixo.
 
 ```
-+-----------+
-| Ermogenes |
-+-----------+
++-------+
+| Diego |
++-------+
 ```
 
 ---
@@ -253,6 +253,6 @@ Ref.: [aqui](https://www.youtube.com/watch?v=gAu7PphBIRU) e [aqui](https://www.y
 Confira no Teams o link da tarefa equivalente. Lá você postará o link dos repositórios que você criou, um para cada exercício.
 
 **Repositório de exemplo:**
-[Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
+[Exercício `FatecRL` (Saída em console)](https://github.com/diegoneri/FatecRL)
 
-Exemplo de link a ser postado: `https://github.com/ermogenes/EtecAB`
+Exemplo de link a ser postado: `https://github.com/diegoneri/FatecRL`
