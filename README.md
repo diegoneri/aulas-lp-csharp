@@ -36,7 +36,7 @@
 
 **Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| ✔ já estudado neste semestre \| 🔥 novo
 
-<!-- **Para alunos presenciais:**  já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra -->
+<!-- **Para alunos presenciais:**  já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra --> 
 
 ### 👔 Introdução
 
