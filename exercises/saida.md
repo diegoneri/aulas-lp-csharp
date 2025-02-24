@@ -8,7 +8,7 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 
 | Enunciado                                           | Correção                                                                                                                                                         | Extras                                     |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [FatecRL](#Exercício-FatecRL)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=1290s) • GitHub - _TBD_             |
+| [FatecRL](#Exercício-FatecRL)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=1290s) • [GitHub](https://github.com/diegoneri/FatecRL)             |
 | [OlaMundo](#Exercício-OlaMundo)                     | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2050s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/OlaMundo/Program.cs)           |
 | [Cidades](#Exercício-Cidades)                       | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2451s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Cidades/Program.cs)            |
 | [Musica](#Exercício-Musica)                         | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2674s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Musica/Program.cs)             |
@@ -22,7 +22,7 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ------ |
 | [Continue](#exercício-continue)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Continue/Program.cs)         |
 | [DezSegundos](#exercício-dezsegundos)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DezSegundos/Program.cs)      |
-| [FrutasPreferidas](#exercício-frutaspreferidas) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/FrutasPreferidas/Program.cs) |
+| [FrutasPreferidas](#exercício-frutaspreferidas) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/FrutasPreferidas/Program.cs) [GitHub-2025](https://github.com/diegoneri/FrutasPreferidas)|
 | [Haikai](#exercício-haikai)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Haikai/Program.cs)            |
 | [Piada](#exercício-piada)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Piada/Program.cs)            |
 | [Adivinha](#exercício-adivinha)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Adivinha/Program.cs)         |
