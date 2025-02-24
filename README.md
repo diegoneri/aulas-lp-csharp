@@ -34,36 +34,36 @@
 
 ## Conteúdo
 
-**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| ✔ já estudado neste semestre \| 🔥 novo
+**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| ✅ já estudado neste semestre \| 🔥 novo
 
 <!-- **Para alunos presenciais:**  já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra --> 
 
 ### 👔 Introdução
 
-- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) ✔
-- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✔
-- [📷 Lógica de Programaçao](content/logica.md) ✔
-- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
+- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) ✅
+- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✅
+- [📷 Lógica de Programaçao](content/logica.md) ✅
+- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✅
 
 ### 🐢 Primeiros passos
 
 - [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) 🎁
 - [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md) 🎁
-- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) 🔥  
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) 🔥
-- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) 🔥
-- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) 🔥
-- [📖 GitHub em computadores compartilhados](content/github-login.md) 🔥
-- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) 🔥
+- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✅  
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✅
+- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✅
+- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✅
+- [📖 GitHub em computadores compartilhados](content/github-login.md) ✅
+- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) ✅
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) 🔥
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) 🔥
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 
-- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) 
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✅
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✅
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 🔥
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 🔥
+- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) 🔥
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 🔥
 - [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  
 - [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 
 - [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) 
@@ -152,8 +152,8 @@ Turma IAL102-A da FATEC Rubens Lara, primeiro semestre de 2025:
 
 ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercícios  |
 -- | ------ | ----------- | -------------------- | ------------------ | ----------- |
-01 |  ✔    | 10/02/2025  | [Apresentação](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
-02 | ✔     | 17/02/2025  | [Introdução - Programação e computadores](#-introdução) e [Primeiros passos](#-primeiros-passos)  | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md) [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)                                                               |
+01 |  ✅    | 10/02/2025  | [Apresentação](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
+02 | ✅     | 17/02/2025  | [Introdução - Programação e computadores](#-introdução) e [Primeiros passos](#-primeiros-passos)  | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md) [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)                                                               |
 03 | 🔥    | 24/02/2025  | [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Lista](exercises/saida.md)  |
 -- | ⏳    | 03/03/2025 | Suspensão das Atividades - Carnaval |
 04 | ⏳    | 10/03/2025 | [Entrada via teclado](#-conceitos-básicos)                      | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)  | [Lista](exercises/entrada-strings.md)                                                                                                                   |
