@@ -135,9 +135,9 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista      | Exercícios  | Prazo      | Ações        |
 | ---------- | ----------- | ---------- | ------------ |
-| Lista 001  | A definir   | 24/03/2025 | [Entregar]() |
-| Lista 002  | A definir   | 31/03/2025 | [Entregar]() |
-| Lista 003  | A definir   | 07/04/2025 | [Entregar]() |
+| Lista 001  | [FatecRL](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-fatecrl), [ContagemRegressiva](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-contagemregressiva), [AsciiArt](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [TimeDoCoracao](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-timedocoracao)     | 24/03/2025 | [Entregar](https://forms.office.com/r/ubmge1bCP0) |
+| Lista 002  | NomeCompleto, Cebolinha, Forca, PetHotel   | 31/03/2025 | [Entregar]() |
+| Lista 003  | MilhasParaKm, FGTS, CustoEnergia, Churrasco   | 07/04/2025 | [Entregar]() |
 | Lista 004  | A definir   | 05/05/2025 | [Entregar]() |
 | Lista 005  | A definir   | 19/05/2025 | [Entregar]() |
 | Lista 006  | A definir   | 09/06/2025 | [Entregar]() |
