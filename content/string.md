@@ -4,23 +4,23 @@
 
 ## O básico
 
-Uma _string_ é uma cadeia (sequência, arranjo) de [caracteres individuais](#tipo-char). Por exemplo, a string `Etec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
+Uma _string_ é uma cadeia (sequência, arranjo) de [caracteres individuais](#tipo-char). Por exemplo, a string `Fatec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
 
 Para definir uma string em C# utilizamos as aspas duplas (`"`).
 
 Você já conheceu as strings quando estudou o comando `Console.WriteLine`:
 
 ```cs
-Console.WriteLine("Etec Adolpho Berezin");
+Console.WriteLine("Fatec Baixada Santista");
 ```
 
-Nesse exemplo, a string é definida em `"Etec Adolpho Berezin"` e passada como argumento para o método `Console.WriteLine`.
+Nesse exemplo, a string é definida em `"Fatec Baixada Santista"` e passada como argumento para o método `Console.WriteLine`.
 
 Podemos armazenar uma string em memória utilizando variáveis do tipo `string`:
 
 ```cs
-string nome = "Ermogenes";
-string sobrenome = "Palacio";
+string nome = "Diego";
+string sobrenome = "Neri";
 ```
 
 ## Concatenação
@@ -183,9 +183,9 @@ Outros exemplos:
 "abc".Equals("abc") // True
 "abc".Equals("ABC") // False
 "abc".Equals("xyz") // False
-"etec adolpho berezin".Contains("mongaguá") // False
-"etec adolpho berezin".EndsWith("adolpho")  // False
-"etec adolpho berezin".StartsWith("etec")   // True
+"fatec adolpho berezin".Contains("mongaguá") // False
+"fatec adolpho berezin".EndsWith("adolpho")  // False
+"fatec adolpho berezin".StartsWith("fatec")   // True
 ```
 
 - Resultam em um arranjo
@@ -195,7 +195,7 @@ Outros exemplos:
 
 ```cs
 "Amanhã será um novo dia".Split(" ") // new string[] { "Amanhã", "será", "um", "novo", "dia" }
-"Etec".ToCharArray()                 // new char[] { 'E', 't', 'e', 'c' }
+"Fatec".ToCharArray()                 // new char[] { 'E', 't', 'e', 'c' }
 ```
 
 - Opções estáticas
@@ -210,14 +210,14 @@ Outros exemplos:
   - `<valor>.ToString` converte valor qualquer em sua representação em string
 
 ```cs
-String.Concat("Etec", "Adolpho", "Berezin")                        // "EtecAdolphoBerezin"
-String.Format("{0} {1} {2}", "Etec", "Adolpho", "Berezin")         // "Etec Adolpho Berezin"
+String.Concat("Fatec", "Adolpho", "Berezin")                        // "FatecAdolphoBerezin"
+String.Format("{0} {1} {2}", "Fatec", "Adolpho", "Berezin")         // "Fatec Baixada Santista"
 String.Empty                                                       // ""
 String.IsNullOrEmpty("teste")                                      // False
 String.IsNullOrEmpty("")                                           // True
 String.IsNullOrEmpty(String.Empty)                                 // True
 String.IsNullOrEmpty(null)                                         // True
-String.Join("... ", new string[] { "Etec", "Adolpho", "Berezin" }) // "Etec... Adolpho... Berezin"
+String.Join("... ", new string[] { "Fatec", "Adolpho", "Berezin" }) // "Fatec... Adolpho... Berezin"
 Convert.ToString(true)                                             // "True"
 Convert.ToString(192)                                              // "192"
 Convert.ToString(192, 2)                                           // "11000000" -> 192 em base 2 (binário)
