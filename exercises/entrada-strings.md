@@ -53,11 +53,11 @@ Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no 
 Exemplo:
 
 ```
-Digite seu primeiro nome: Ermogenes
-Digite seu sobrenome: Palacio
+Digite seu primeiro nome: Diego
+Digite seu sobrenome: Neri
 
-Nome completo: Ermogenes Palacio
-Nome de catálogo: PALACIO, Ermogenes
+Nome completo: Diego Neri
+Nome de catálogo: NERI, Diego
 ```
 
 ---
@@ -180,7 +180,7 @@ Exemplo:
 ```
 --- Nome Ninja ---
 
-Digite seu nome: Ermogenes
+Digite seu nome: Diego
 
 Seu nome ninja é Kushirinmojikutokuari.
 ```
@@ -353,6 +353,6 @@ Digite a rolagem desejada...: 4d6+1
 Confira no Teams o link da tarefa equivalente. Lá você postará o link dos repositórios que você criou, um para cada exercício.
 
 **Repositório de exemplo:**
-[Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
+[Exercício `FatecRL` (Saída em console)](https://github.com/diegoneri/FatecRL)
 
-Exemplo de link a ser postado: https://github.com/ermogenes/EtecAB
+Exemplo de link a ser postado: https://github.com/diegoneri/FatecRL
