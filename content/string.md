@@ -4,7 +4,7 @@
 
 ## O básico
 
-Uma _string_ é uma cadeia (sequência, arranjo) de [caracteres individuais](#tipo-char). Por exemplo, a string `Fatec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
+Uma _string_ é uma cadeia (sequência, arranjo) de [caracteres individuais](#tipo-char). Por exemplo, a string `Fatec` é formada pelos caracteres `F`, `a` `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
 
 Para definir uma string em C# utilizamos as aspas duplas (`"`).
 
