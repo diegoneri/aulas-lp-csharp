@@ -66,6 +66,24 @@ nomeCompletoBuffer.AppendFormat(" {0}", sobrenome);
 string nomeCompleto = nomeCompletoBuffer.ToString();
 ```
 
+## Imutabilidade de uma _string_
+
+Uma String é imutável: ela não pode ser alterada depois de criada. Todas as funcionalidades do C# sobre uma String, na verdade, devolvem um novo valor de _string_.
+No exemplo abaixo, quando os conteúdos de s1 e s2 são concatenados para formar uma nova _string_, as duas originais permanecem sem modificações.
+A interpolação cria uma nova _string_ que contém os conteúdos combinados. Este novo conteúdo criado, então, é atribuído para a variável s1, e o valor original de s1 é desprezado.
+
+```C#
+string s1 = "Uma string é mais que ";
+string s2 = "uma soma de seus caracteres.";
+
+// Concatena s1 and s2. Isto, na verdade, cria uma nova string
+// e armazena isto em s1, desprezando o valor anterior de s1.
+s1 = $"{s1}{s2}";
+
+Console.WriteLine(s1);
+// Saída: Uma string é mais que uma soma de seus caracteres..
+```
+
 ## Interpolação e formatação de composição
 
 Podemos alinhar as strings ao interpolar, bem como indicar algumas formatações simples nos valores (chamadas de [formatação de composição](https://docs.microsoft.com/pt-br/dotnet/standard/base-types/composite-formatting)).
