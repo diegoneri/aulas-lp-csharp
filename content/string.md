@@ -201,9 +201,9 @@ Outros exemplos:
 "abc".Equals("abc") // True
 "abc".Equals("ABC") // False
 "abc".Equals("xyz") // False
-"fatec adolpho berezin".Contains("mongaguá") // False
-"fatec adolpho berezin".EndsWith("adolpho")  // False
-"fatec adolpho berezin".StartsWith("fatec")   // True
+"fatec baixada santista".Contains("santos") // False
+"fatec baixada santista".EndsWith("baixada")  // False
+"fatec baixada santista".StartsWith("fatec")   // True
 ```
 
 - Resultam em um arranjo
@@ -228,14 +228,14 @@ Outros exemplos:
   - `<valor>.ToString` converte valor qualquer em sua representação em string
 
 ```cs
-String.Concat("Fatec", "Adolpho", "Berezin")                        // "FatecAdolphoBerezin"
-String.Format("{0} {1} {2}", "Fatec", "Adolpho", "Berezin")         // "Fatec Baixada Santista"
+String.Concat("Fatec", "baixada", "Santista")                        // "FatecbaixadaSantista"
+String.Format("{0} {1} {2}", "Fatec", "Baixada", "Santista")         // "Fatec Baixada Santista"
 String.Empty                                                       // ""
 String.IsNullOrEmpty("teste")                                      // False
 String.IsNullOrEmpty("")                                           // True
 String.IsNullOrEmpty(String.Empty)                                 // True
 String.IsNullOrEmpty(null)                                         // True
-String.Join("... ", new string[] { "Fatec", "Adolpho", "Berezin" }) // "Fatec... Adolpho... Berezin"
+String.Join("... ", new string[] { "Fatec", "Baixada", "Santista" }) // "Fatec... Baixada... Santista"
 Convert.ToString(true)                                             // "True"
 Convert.ToString(192)                                              // "192"
 Convert.ToString(192, 2)                                           // "11000000" -> 192 em base 2 (binário)
@@ -247,10 +247,10 @@ Convert.ToString(192, 16)                                          // "c0" -> 19
 As strings podem ser acessadas como um arranjo de `char`, usando o operador `[índice]`. O índice indica a posição desejada, iniciando em zero.
 
 ```cs
-"mongaguá"[0] // 'm'
-"mongaguá"[3] // 'g'
-"mongaguá"[7] // 'á'
-"mongaguá"[8] // erro!
+"santos"[0] // 'm'
+"santos"[3] // 'g'
+"santos"[7] // 'á'
+"santos"[8] // erro!
 ```
 
 ## Sequências de escape
