@@ -63,17 +63,17 @@
 - [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✅
 - [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✅
 - [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 🔥
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  🔥
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 🔥
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✅
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  ✅
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✅
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) 
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 🔥
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) 🔥
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🔥 
 
 ### 🎛 Sub-rotinas
 
@@ -158,7 +158,7 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 -- | ✅    | 03/03/2025 | Suspensão das Atividades - Carnaval |
 04 | ✅    | 10/03/2025 | [Entrada via teclado](#-conceitos-básicos)                      | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)  | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/d4c4428523b71ca96fdb9b8c19124fd7)
 05 | ✅    | 17/03/2025  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)  | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/b6d9a8a9afc28c287b5138d3612ac0af) |
-06 | 🔥    | 24/03/2025*  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
+06 | ✅    | 24/03/2025*  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
 07 | ⏳    | 31/03/2025*  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 08 | ⏳    | 07/04/2025* | [Decisão](#-decisão)                        | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 09 | ⏳    | 14/04/2025  | _Avaliação Individual - P1_                                                                                                                   |
