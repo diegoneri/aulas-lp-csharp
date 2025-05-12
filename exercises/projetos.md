@@ -28,16 +28,6 @@ Atualmente você pode escolher uma entre 33 opções de projetos.
 
 | Enunciado                                                                                                                                         | Dificuldade | Lista                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------- |
-| [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exercício-Bhaskara)                     | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [CasaDeTintas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-casadetintas)             | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [CaixaEletronico](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-caixaeletronico)       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [NaMosca](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-namosca)                       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [Estacionamento](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-estacionamento)         | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [GeneticaMendeliana](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-geneticamendeliana) | ☕☕☕      | [Decisão e operações lógicas](decisao-simples.md) |
-| [ColisaoCircular2D](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exercício-colisaocircular2d)       | ☕☕        | [Sub-rotinas](sub-rotinas.md)                     |
-| [AmortizacaoConstante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaoconstante)       | ☕☕        | [Laços](lacos.md)                                 |
-| [AmortizacaoFrancesa](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaofrancesa)         | ☕☕        | [Laços](lacos.md)                                 |
-| [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-espertocontrasabido)         | ☕☕        | [Laços](lacos.md)                                 |
 | [Ursos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-ursos)                                     | ☕☕☕      | [Laços](lacos.md)                                 |
 | [NPC](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-npc)                                         | ☕☕☕      | [Laços](lacos.md)                                 |
 | [UrnaPlebiscito](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-urnaplebiscito)                   | ☕☕        | [Laços](lacos.md)                                 |
@@ -50,7 +40,7 @@ Atualmente você pode escolher uma entre 33 opções de projetos.
 | [Fintech](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-fintech)                        | ☕☕        | [Classes e Listas](classes-listas.md)             |
 | [CarrinhoDeCompras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-carrinhodecompras)    | ☕☕        | [Classes e Listas](classes-listas.md)             |
 | [Masmorra](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-masmorra)                      | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
-| [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
+| [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕           | [Classes e Listas](classes-listas.md)             |
 | [Solteirona](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-solteirona)                  | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
 | [Genius](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-genius)                          | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
 | [CampoMinado](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-campominado)                | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
