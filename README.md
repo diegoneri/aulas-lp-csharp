@@ -70,19 +70,19 @@
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 🔥
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) 🔥
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✅
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✅
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🔥 
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 🔥 
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 
-- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
+- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) 🔥 
 
 ### x Estrutura de dados
 - [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)
@@ -160,11 +160,11 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 05 | ✅    | 17/03/2025  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)  | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/b6d9a8a9afc28c287b5138d3612ac0af) |
 06 | ✅    | 24/03/2025*  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
 07 | ✅    | 31/03/2025*  | Revisão de conteúdo e exercícios 
-08 | ⏳    | 07/04/2025*  | _Avaliação Individual - P1_ [Lista de turmas](content/listaAvaliacao01.md)
-09 | ⏳    | 14/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
--- | ⏳    | 21/04/2025  | _Suspensão de atividades - Feriado Nacional_ |
-10 | ⏳    | 28/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-11 | ⏳    | 05/05/2025* | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | [Lista](exercises/sub-rotinas.md) 
+08 | ✅    | 07/04/2025*  | _Avaliação Individual - P1_ [Lista de turmas](content/listaAvaliacao01.md)
+09 | ✅    | 14/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+-- | ✅    | 21/04/2025  | _Suspensão de atividades - Feriado Nacional_ |
+10 | ✅    | 28/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+11 | ✅    | 05/05/2025* | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | [Lista](exercises/sub-rotinas.md) 
 12 | ⏳    | 12/05/2025  | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
 13 | ⏳    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
 14 | ⏳    | 26/05/2025  | [Arrays e Listas](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
