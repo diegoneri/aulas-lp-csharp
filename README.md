@@ -73,20 +73,21 @@
 - [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✅
 - [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✅
 - [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🔥 
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✅ 
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 🔥 
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) ✅ 
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
-- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) 🔥 
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✅
+- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
 
 ### x Estrutura de dados
-- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)
-- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md)
+- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md) 🔥 
+- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md) 🔥 
+- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md) 🔥
 
 ### 🎁 Tópicos adicionais
 
@@ -97,7 +98,6 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md)
 - [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md)
 - [📺](https://youtu.be/HtVJc_7FzYs) [📖 Exceções](content/exceptions.md)
-- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md)
 - [📺](https://youtu.be/p1P_sY8tHnY) [_Live_] Jogos, OOP e Inteligência Artificial ([implementação do jogo Two Dice Pig](https://github.com/ermogenes/TwoDicePig))
 - [📺](https://youtu.be/JI1-f04navk) [📖 Bancos de dados com MySQL](content/db-mysql.md)
 - [📺](https://youtu.be/tLkxJHqUDxk) [📖 CRUD com EF Core](content/crud-efcore.md)
@@ -139,9 +139,9 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Lista 002  | [NomeCompleto](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-NomeCompleto), [Cebolinha](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-Cebolinha), [Forca](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-forca), [PetHotel](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-pethotel)   | 31/03/2025 | [Entregar](https://forms.office.com/r/QKA2kzdyeP) |
 | Lista 003  | [MilhasParaKm](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#Exerc%C3%ADcio-MilhasParaKm), [FGTS](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#Exerc%C3%ADcio-FGTS), [CustoEnergia](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-custoenergia), [Churrasco](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-churrasco)   | 07/04/2025 | [Entregar](https://forms.office.com/r/VEghCxHJFC) |
 | Lista 004  | [ParImpar](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-ParImpar), [AnaliseCredito](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-AnaliseCredito), [FluxogramaDaEngenharia](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia), [HorasExtras](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras)   | 19/05/2025 | [Entregar](https://forms.office.com/r/aaBvZ96mZE) |
-| Lista 005  | [Tabuada](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-Tabuada), [RetContorno](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-RetContorno) | 02/06/2025 | [Entregar]() |
-| Lista 006  | [NoiteDeTerror](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/arranjos.md#exerc%C3%ADcio-noitedeterror), [DescontoAtacado](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/classes-listas.md#exerc%C3%ADcio-descontoatacado) | 23/06/2025 | [Entregar]() |
-| Projeto Final  | Uma das opções a seguir: [Projetos práticos](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/projetos.md)) | 23/06/2025 | [Entregar]() |
+| Lista 005  | [Tabuada](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-Tabuada), [RetContorno](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-RetContorno) | 02/06/2025 | [Entregar](https://forms.office.com/r/WaPJNBtsgc) |
+| Lista 006  | [NoiteDeTerror](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/arranjos.md#exerc%C3%ADcio-noitedeterror), [DescontoAtacado](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/classes-listas.md#exerc%C3%ADcio-descontoatacado) | 23/06/2025 | [Entregar](https://forms.office.com/r/a8wv0NpwwB) |
+| Projeto Final  | Uma das opções a seguir: [Projetos práticos](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/projetos.md) | 23/06/2025 | [Entregar](https://forms.office.com/r/8nRrbJ8HWs) |
 
 _Obs.: O número de listas e as listas de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
@@ -167,10 +167,10 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 10 | ✅    | 28/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 11 | ✅    | 05/05/2025* | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 12 | ✅    | 12/05/2025  | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | [Lista](exercises/sub-rotinas.md) 
-13 | ⏳    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
-13 | ⏳    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
-15 | ⏳    | 02/06/2025  | [Estruturas de Dados (Arrays e Listas)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/while-do.md)     | [Lista](exercises/classes-listas.md) |
-15 | ⏳    | 09/06/2025  | [Arrays e Listas](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/classes-listas.md) |
+13 | ✅    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
+14 | ⏳    | 26/05/2025* | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
+15 | ⏳    | 02/06/2025  | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
+15 | ⏳    | 09/06/2025  | Projeto final    | |
 17 | ⏳    | 16/06/2025  | Projeto final    | | 
 18 | ⏳    | 23/06/2025  | Projeto final    | | 
 19 | ⏳    | 30/06/2025  | Avaliação Substitutiva - P3  | | 
