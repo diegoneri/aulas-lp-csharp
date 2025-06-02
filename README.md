@@ -85,9 +85,9 @@
 - [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
 
 ### x Estrutura de dados
-- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md) 🔥 
-- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md) 🔥 
-- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md) 🔥
+- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md) ✅ 
+- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md) ✅ 
+- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md) ✅
 
 ### 🎁 Tópicos adicionais
 
@@ -168,8 +168,8 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 11 | ✅    | 05/05/2025* | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 12 | ✅    | 12/05/2025  | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | [Lista](exercises/sub-rotinas.md) 
 13 | ✅    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
-14 | ⏳    | 26/05/2025* | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
-15 | ⏳    | 02/06/2025  | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
+14 | ✅    | 26/05/2025* | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
+15 | ✅    | 02/06/2025  | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
 15 | ⏳    | 09/06/2025  | Projeto final    | |
 17 | ⏳    | 16/06/2025  | Projeto final    | | 
 18 | ⏳    | 23/06/2025  | Projeto final    | | 
