@@ -30,6 +30,8 @@
 - [Canal: Prof. Diego Neri](https://www.youtube.com/channel/UCDOt7T8TvMmYLKkqXGUIMHg)
 - [Playlist com todos os vídeos](https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5)
 
+📱 [Conscientização sobre uso de celulares nas escolas](https://www.cps.sp.gov.br/conscientizacao-sobre-uso-de-celulares-nas-escolas/)
+
 ---
 
 ## Conteúdo
