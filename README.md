@@ -172,7 +172,7 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 13 | ✅    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
 14 | ✅    | 26/05/2025* | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
 15 | ✅    | 02/06/2025  | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
-15 | ⏳    | 09/06/2025  | Projeto final    | |
+15 | ⏳    | 09/06/2025  | Projeto final, Publicação e distribuição,  Depuração | [📖](content/publish_dist.md) [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖](content/debug.md)|
 17 | ⏳    | 16/06/2025  | Projeto final    | | 
 18 | ⏳    | 23/06/2025  | Projeto final    | | 
 19 | ⏳    | 30/06/2025  | Avaliação Substitutiva - P3  | | 
