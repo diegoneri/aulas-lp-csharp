@@ -42,54 +42,54 @@
 
 ### 👔 Introdução
 
-- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) ✅
-- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✅
-- [📷 Lógica de Programaçao](content/logica.md) ✅
-- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✅
+- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) 
+- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) 
+- [📷 Lógica de Programaçao](content/logica.md) 
+- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) 
 
 ### 🐢 Primeiros passos
 
 - [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) 🎁
 - [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md) 🎁
-- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✅  
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✅
-- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✅
-- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✅
-- [📖 GitHub em computadores compartilhados](content/github-login.md) ✅
-- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) ✅
+- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)   
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) 
+- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) 
+- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) 
+- [📖 GitHub em computadores compartilhados](content/github-login.md) 
+- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) 
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✅
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✅
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✅
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✅
-- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✅
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  ✅
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✅
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) 
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) 
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 
+- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) 
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✅
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✅
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✅ 
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)  
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) ✅ 
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)  
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✅
-- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) ✅
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 
+- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) 
 
 ### x Estrutura de dados
-- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md) ✅ 
-- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md) ✅ 
-- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md) ✅
+- [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)  
+- [📺](https://youtu.be/qd18FR7a3s4) [📖 Listas](content/lists.md)  
+- [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md) 
 
 ### 🎁 Tópicos adicionais
 
@@ -133,17 +133,12 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 ### Entregas para alunos da Fatec (IAL102-A - 2025-1)
 
-Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
+As entregas serão postadas direto no canal _Geral_ do Teams, sendo elas:
 
-| Lista      | Exercícios  | Prazo      | Ações        |
-| ---------- | ----------- | ---------- | ------------ |
-| Lista 001  | [FatecRL](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-fatecrl), [ContagemRegressiva](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-contagemregressiva), [AsciiArt](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [TimeDoCoracao](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-timedocoracao)     | 24/03/2025 | [Entregar](https://forms.office.com/r/ubmge1bCP0) |
-| Lista 002  | [NomeCompleto](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-NomeCompleto), [Cebolinha](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-Cebolinha), [Forca](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-forca), [PetHotel](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-pethotel)   | 31/03/2025 | [Entregar](https://forms.office.com/r/QKA2kzdyeP) |
-| Lista 003  | [MilhasParaKm](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#Exerc%C3%ADcio-MilhasParaKm), [FGTS](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#Exerc%C3%ADcio-FGTS), [CustoEnergia](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-custoenergia), [Churrasco](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-churrasco)   | 07/04/2025 | [Entregar](https://forms.office.com/r/VEghCxHJFC) |
-| Lista 004  | [ParImpar](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-ParImpar), [AnaliseCredito](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-AnaliseCredito), [FluxogramaDaEngenharia](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia), [HorasExtras](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras)   | 19/05/2025 | [Entregar](https://forms.office.com/r/aaBvZ96mZE) |
-| Lista 005  | [Tabuada](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-Tabuada), [RetContorno](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-RetContorno) | 02/06/2025 | [Entregar](https://forms.office.com/r/WaPJNBtsgc) |
-| Lista 006  | [NoiteDeTerror](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/arranjos.md#exerc%C3%ADcio-noitedeterror), [DescontoAtacado](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/classes-listas.md#exerc%C3%ADcio-descontoatacado) | 23/06/2025 | [Entregar](https://forms.office.com/r/a8wv0NpwwB) |
-| Projeto Final  | Uma das opções a seguir: [Projetos práticos](https://github.com/diegoneri/aulas-lp-csharp/blob/master/exercises/projetos.md) | 23/06/2025 | [Entregar](https://forms.office.com/r/8nRrbJ8HWs) |
+- Aula 03 - 25/08/2025
+- Aula 04 - 15/09/2025
+- Aula 05 - 22/09/2025
+- Aula 06 - 29/09/2025
 
 _Obs.: O número de listas e as listas de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
@@ -151,33 +146,20 @@ _Obs.: O número de listas e as listas de exercícios a serem entregues pode ser
 
 ## 🗓 Calendário
 
-Turma IAL102-A da FATEC Rubens Lara, primeiro semestre de 2025:
+Turma IAL102-A da FATEC Rubens Lara, segundo semestre de 2025:
 
 ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercícios  | Anotações |
 -- | ------ | ----------- | -------------------- | ------------------ | ----------- | --------  |
-01 |  ✅    | 10/02/2025  | [Apresentação](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
-02 | ✅     | 17/02/2025  | [Introdução - Programação e computadores](#-introdução) e [Primeiros passos](#-primeiros-passos)  | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md) [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)                                                               |
-03 | ✅    | 24/02/2025  | [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Lista](exercises/saida.md)  |
--- | ✅    | 03/03/2025 | Suspensão das Atividades - Carnaval |
-04 | ✅    | 10/03/2025 | [Entrada via teclado](#-conceitos-básicos)                      | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)  | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/d4c4428523b71ca96fdb9b8c19124fd7)
-05 | ✅    | 17/03/2025  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)  | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/b6d9a8a9afc28c287b5138d3612ac0af) |
-06 | ✅    | 24/03/2025*  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
-07 | ✅    | 31/03/2025*  | Revisão de conteúdo e exercícios 
-08 | ✅    | 07/04/2025*  | _Avaliação Individual - P1_ [Lista de turmas](content/listaAvaliacao01.md)
-09 | ✅    | 14/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
--- | ✅    | 21/04/2025  | _Suspensão de atividades - Feriado Nacional_ |
-10 | ✅    | 28/04/2025  | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-11 | ✅    | 05/05/2025* | [Decisão](#-decisão)                   | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-12 | ✅    | 12/05/2025  | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | [Lista](exercises/sub-rotinas.md) 
-13 | ✅    | 19/05/2025* | [Laços](#-laços)  | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)     | [Lista](exercises/lacos.md) |
-14 | ✅    | 26/05/2025* | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
-15 | ✅    | 02/06/2025  | [Estruturas de Dados (Arrays, Listas e Classes)](#x-estrutura-de-dados)  | [📺](https://youtu.be/0pYKPcDL0IU) [📖](content/arrays.md) [📺](https://youtu.be/qd18FR7a3s4) [📖](content/lists.md) [📺](https://youtu.be/r6EllahDrEQ) [📖](content/classes.md) | [Lista1](exercises/arranjos.md) [Lista2](exercises/classes-listas.md) |
-15 | ⏳    | 09/06/2025  | Projeto final, Publicação e distribuição,  Depuração | [📖](content/publish_dist.md) [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖](content/debug.md)|
-17 | ⏳    | 16/06/2025  | Projeto final    | | 
-18 | ⏳    | 23/06/2025  | Projeto final    | | 
-19 | ⏳    | 30/06/2025  | Avaliação Substitutiva - P3  | | 
--- |       | _A Definir_ | Prazo final para lançamento de notas | | 
-20 | ⏳    | 07/07/2025  | Considerações Finais    | | 
+01 |        | 11/08/2025  | [Apresentação](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
+02 |        | 18/08/2025  | [Introdução - Programação e computadores](#-introdução) e [Primeiros passos](#-primeiros-passos)  | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md) [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)                                                               |
+03 |        | 25/08/2025  | [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Lista](exercises/saida.md)  |
+-- |        | 08/09/2025  | _Suspensão de atividades - Feriado Municipal_ |
+04 |        | 15/09/2025  | [Entrada via teclado](#-conceitos-básicos)                      | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)  | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/d4c4428523b71ca96fdb9b8c19124fd7)
+05 |        | 22/09/2025  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)  | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   | [Gist](https://gist.github.com/diegoneri/b6d9a8a9afc28c287b5138d3612ac0af) |
+06 |        | 29/09/2025  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
+07 |        | 06/10/2025  | Revisão de conteúdo e exercícios 
+08 |        | 13/10/2025  | _Avaliação Individual - P1_ [Lista de turmas](content/listaAvaliacao01.md)
+-- |        | ----------  | _Encerramento de contrato_ |
 
 
 [Plano de curso](https://fatecrl.edu.br/cursos/sistemas-para-internet)
