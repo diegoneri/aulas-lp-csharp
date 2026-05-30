@@ -228,7 +228,7 @@ public class AritmeticaTest
 Ao testar, teremos:
 
 ```
-Aprovado!  - Com falha:     0, Aprovado:     9, Ignorado:     0, Total:     9, Duração: 4 ms - Calculadora.Test.dll (net6.0)
+Aprovado!  - Com falha:     0, Aprovado:     9, Ignorado:     0, Total:     9, Duração: 4 ms - Calculadora.Test.dll (net10.0)
 ```
 
 Faça o mesmo para a subtração, a multiplicação e a divisão.
@@ -340,7 +340,7 @@ public class AritmeticaTest
 Todos passando corretamente:
 
 ```
-Aprovado!  - Com falha:     0, Aprovado:    42, Ignorado:     0, Total:    42, Duração: 37 ms - Calculadora.Test.dll (net6.0)
+Aprovado!  - Com falha:     0, Aprovado:    42, Ignorado:     0, Total:    42, Duração: 37 ms - Calculadora.Test.dll (net10.0)
 ```
 
 ## Criando a aplicação

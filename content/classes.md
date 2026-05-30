@@ -182,22 +182,21 @@ Programa da [vídeo-aula](https://youtu.be/r6EllahDrEQ):
 Arquivo `Cliente.cs`:
 
 ```cs
-namespace MeuBanco
-{
-    class Cliente
-    {
-        public string Nome { get; set; }
-        public string Sobrenome { get; set; }
+namespace MeuBanco;
 
-        public Cliente(string nome, string sobrenome)
-        {
-            this.Nome = nome;
-            this.Sobrenome = sobrenome;
-        }
-        public string NomeCompleto()
-        {
-            return $"{this.Nome} {this.Sobrenome}";
-        }
+class Cliente
+{
+    public string Nome { get; set; }
+    public string Sobrenome { get; set; }
+
+    public Cliente(string nome, string sobrenome)
+    {
+        this.Nome = nome;
+        this.Sobrenome = sobrenome;
+    }
+    public string NomeCompleto()
+    {
+        return $"{this.Nome} {this.Sobrenome}";
     }
 }
 ```
@@ -205,59 +204,56 @@ namespace MeuBanco
 Arquivo `Conta.cs`:
 
 ```cs
-using System;
+namespace MeuBanco;
 
-namespace MeuBanco
+class Conta
 {
-    class Conta
+    private decimal _saldo;
+    public Cliente Titular { get; private set; }
+    public decimal Saldo
     {
-        private decimal _saldo;
-        public Cliente Titular { get; private set; }
-        public decimal Saldo
+        get
         {
-            get
+            return this._saldo;
+        }
+        private set
+        {
+            if (value < 0)
             {
-                return this._saldo;
+                throw new ArgumentException("Saldo inválido.");
             }
-            private set
-            {
-                if (value < 0)
-                {
-                    throw new ArgumentException("Saldo inválido.");
-                }
-                this._saldo = value;
-            }
+            this._saldo = value;
+        }
+    }
+
+    public Conta(Cliente titular, decimal saldo)
+    {
+        this.Titular = titular;
+        this.Saldo = saldo;
+    }
+
+    public void Depositar(decimal valorADepositar)
+    {
+        if (valorADepositar <= 0)
+        {
+            throw new ArgumentException("Depósitos devem ser positivos.");
+        }
+        this.Saldo += valorADepositar;
+    }
+
+    public bool Sacar(decimal valorASacar)
+    {
+        if (valorASacar <= 0)
+        {
+            throw new ArgumentException("Saques devem ser positivos.");
         }
 
-        public Conta(Cliente titular, decimal saldo)
+        bool possuiSaldo = (this.Saldo >= valorASacar);
+        if (possuiSaldo)
         {
-            this.Titular = titular;
-            this.Saldo = saldo;
+            this.Saldo -= valorASacar;
         }
-
-        public void Depositar(decimal valorADepositar)
-        {
-            if (valorADepositar <= 0)
-            {
-                throw new ArgumentException("Depósitos devem ser positivos.");
-            }
-            this.Saldo += valorADepositar;
-        }
-
-        public bool Sacar(decimal valorASacar)
-        {
-            if (valorASacar <= 0)
-            {
-                throw new ArgumentException("Saques devem ser positivos.");
-            }
-
-            bool possuiSaldo = (this.Saldo >= valorASacar);
-            if (possuiSaldo)
-            {
-                this.Saldo -= valorASacar;
-            }
-            return possuiSaldo;
-        }
+        return possuiSaldo;
     }
 }
 ```
@@ -265,36 +261,26 @@ namespace MeuBanco
 Arquivo `Program.cs`:
 
 ```cs
-using System;
 using MeuBanco;
 
-namespace AulaClasses
+Cliente t1 = new Cliente("Ermogenes", "Palacio");
+
+Conta c1;
+c1 = new Conta(t1, 100);
+
+c1.Depositar(10);
+c1.Depositar(500);
+
+Conta c2 = new Conta(new Cliente("Diego", "Neri"), 200);
+
+c2.Depositar(95);
+
+if (!c1.Sacar(20))
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Cliente t1 = new Cliente("Ermogenes", "Palacio");
-
-            Conta c1;
-            c1 = new Conta(t1, 100);
-
-            c1.Depositar(10);
-            c1.Depositar(500);
-
-            Conta c2 = new Conta(new Cliente("Diego", "Neri"), 200);
-
-            c2.Depositar(95);
-
-            if (!c1.Sacar(20))
-            {
-                Console.WriteLine("20: Saldo insuficiente.");
-            }
-
-            Console.WriteLine($"{c1.Titular.NomeCompleto()} tem {c1.Saldo:C2} e {c2.Titular.NomeCompleto()} tem {c2.Saldo:c2}.");
-        }
-    }
+    Console.WriteLine("20: Saldo insuficiente.");
 }
+
+Console.WriteLine($"{c1.Titular.NomeCompleto()} tem {c1.Saldo:C2} e {c2.Titular.NomeCompleto()} tem {c2.Saldo:c2}.");
 ```
 
 **Saída**:

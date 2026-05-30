@@ -74,27 +74,6 @@ O VsCode abrirá a pasta e automaticamente efetuará o download de todas as depe
 
 ![](000023.png)
 
-
-```
-Installing C# dependencies...
-Platform: win32, x86_64
-
-Downloading package 'OmniSharp for Windows (.NET 4.6 / x64)' (31901 KB).................... Done!
-Validating download...
-Integrity Check succeeded.
-Installing package 'OmniSharp for Windows (.NET 4.6 / x64)'
-
-Downloading package '.NET Core Debugger (Windows / x64)' (41930 KB).................... Done!
-Validating download...
-Integrity Check succeeded.
-Installing package '.NET Core Debugger (Windows / x64)'
-
-Downloading package 'Razor Language Server (Windows / x64)' (49975 KB).................... Done!
-Installing package 'Razor Language Server (Windows / x64)'
-
-Finished
-```
-
 Clique em `Yes`.
 
 ![](000022.png)

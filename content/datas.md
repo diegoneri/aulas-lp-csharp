@@ -109,72 +109,61 @@ O .NET 6 introduziu tipos que tratam separadamente data (como em aniversários) 
 [Programa da vídeo-aula](https://youtu.be/KT5B9WSjehc)
 
 ```cs
-using System;
+// Obtendo a data do sistema
+Console.WriteLine("--- Obtendo a data do sistema");
+DateTime horaSistema = DateTime.Now;
+Console.WriteLine($"Hora do sistema: {horaSistema}");
 
-namespace AulaDatas
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Obtendo a data do sistema
-            Console.WriteLine("--- Obtendo a data do sistema");
-            DateTime horaSistema = DateTime.Now;
-            Console.WriteLine($"Hora do sistema: {horaSistema}");
+// Inicializando uma data específica
+Console.WriteLine("--- Inicializando uma data específica");
+DateTime decolagemApollo11 = new DateTime(1969, 07, 16, 13, 32, 00);
+string stringData = "20/07/1969 20:17:17";
+DateTime primeiroPousoLunar = Convert.ToDateTime(stringData);
+Console.WriteLine($"Decolagem Apollo 11..: {decolagemApollo11}");
+Console.WriteLine($"Pouso na Lua.........: {primeiroPousoLunar}");
 
-            // Inicializando uma data específica
-            Console.WriteLine("--- Inicializando uma data específica");
-            DateTime decolagemApollo11 = new DateTime(1969, 07, 16, 13, 32, 00);
-            string stringData = "20/07/1969 20:17:17";
-            DateTime primeiroPousoLunar = Convert.ToDateTime(stringData);
-            Console.WriteLine($"Decolagem Apollo 11..: {decolagemApollo11}");
-            Console.WriteLine($"Pouso na Lua.........: {primeiroPousoLunar}");
+// Exibindo data/hora, curta e longa
+Console.WriteLine("--- Exibindo data/hora, curta e longa");
+string dataCurta = horaSistema.ToShortDateString();
+string dataLonga = horaSistema.ToLongDateString();
+string horaCurta = horaSistema.ToShortTimeString();
+string horaLonga = horaSistema.ToLongTimeString();
+Console.WriteLine($"Data curta: {dataCurta}");
+Console.WriteLine($"Data longa: {dataLonga}");
+Console.WriteLine($"Hora curta: {horaCurta}");
+Console.WriteLine($"Hora longa: {horaLonga}");
 
-            // Exibindo data/hora, curta e longa
-            Console.WriteLine("--- Exibindo data/hora, curta e longa");
-            string dataCurta = horaSistema.ToShortDateString();
-            string dataLonga = horaSistema.ToLongDateString();
-            string horaCurta = horaSistema.ToShortTimeString();
-            string horaLonga = horaSistema.ToLongTimeString();
-            Console.WriteLine($"Data curta: {dataCurta}");
-            Console.WriteLine($"Data longa: {dataLonga}");
-            Console.WriteLine($"Hora curta: {horaCurta}");
-            Console.WriteLine($"Hora longa: {horaLonga}");
+// Obtendo partes de uma data
+Console.WriteLine("--- Obtendo partes de uma data");
+int ano = horaSistema.Year;
+DateTime dataSemHora = horaSistema.Date;
+int diaDaSemanaNumero = Convert.ToInt32(horaSistema.DayOfWeek);
+string diaDaSemanaTexto = horaSistema.ToString("dddd");
+Console.WriteLine($"Ano: {ano}");
+Console.WriteLine($"Data sem a hora: {dataSemHora}");
+Console.WriteLine($"Dia da semana: {diaDaSemanaNumero} => {diaDaSemanaTexto}");
 
-            // Obtendo partes de uma data
-            Console.WriteLine("--- Obtendo partes de uma data");
-            int ano = horaSistema.Year;
-            DateTime dataSemHora = horaSistema.Date;
-            int diaDaSemanaNumero = Convert.ToInt32(horaSistema.DayOfWeek);
-            string diaDaSemanaTexto = horaSistema.ToString("dddd");
-            Console.WriteLine($"Ano: {ano}");
-            Console.WriteLine($"Data sem a hora: {dataSemHora}");
-            Console.WriteLine($"Dia da semana: {diaDaSemanaNumero} => {diaDaSemanaTexto}");
+// Alterando uma data
+Console.WriteLine("--- Alterando uma data");
+DateTime vencimento = horaSistema.AddMonths(1).AddDays(1).Date;
+DateTime duasHorasAtras = horaSistema.AddHours(-2);
+Console.WriteLine($"Vencimento: {vencimento}");
+Console.WriteLine($"Duas horás atrás: {duasHorasAtras}");
 
-            // Alterando uma data
-            Console.WriteLine("--- Alterando uma data");
-            DateTime vencimento = horaSistema.AddMonths(1).AddDays(1).Date;
-            DateTime duasHorasAtras = horaSistema.AddHours(-2);
-            Console.WriteLine($"Vencimento: {vencimento}");
-            Console.WriteLine($"Duas horás atrás: {duasHorasAtras}");
+// Intervalos de tempo fixos
+Console.WriteLine("--- Intervalos de tempo fixos");
+TimeSpan tresHorasEQuinze = new TimeSpan(3, 15, 0);
+DateTime daquiHaPouco = horaSistema + tresHorasEQuinze;
+Console.WriteLine($"Daqui há pouco: {daquiHaPouco}");
 
-            // Intervalos de tempo fixos
-            Console.WriteLine("--- Intervalos de tempo fixos");
-            TimeSpan tresHorasEQuinze = new TimeSpan(3, 15, 0);
-            DateTime daquiHaPouco = horaSistema + tresHorasEQuinze;
-            Console.WriteLine($"Daqui há pouco: {daquiHaPouco}");
-
-            // Calculando o intervalo entre duas datas
-            Console.WriteLine("--- Calculando o intervalo entre duas datas");
-            TimeSpan intervaloDesdeMeiaNoite = horaSistema.TimeOfDay;
-            int horasDecorridas = intervaloDesdeMeiaNoite.Hours;
-            TimeSpan tempoViagemLua = primeiroPousoLunar - decolagemApollo11;
-            int diasViagemLua = tempoViagemLua.Days;
-            Console.WriteLine($"Horas desde 0h: {horasDecorridas} horas");
-            Console.WriteLine($"A primeira viagem à lua levou {diasViagemLua} dias");
-        }
-    }
-}
+// Calculando o intervalo entre duas datas
+Console.WriteLine("--- Calculando o intervalo entre duas datas");
+TimeSpan intervaloDesdeMeiaNoite = horaSistema.TimeOfDay;
+int horasDecorridas = intervaloDesdeMeiaNoite.Hours;
+TimeSpan tempoViagemLua = primeiroPousoLunar - decolagemApollo11;
+int diasViagemLua = tempoViagemLua.Days;
+Console.WriteLine($"Horas desde 0h: {horasDecorridas} horas");
+Console.WriteLine($"A primeira viagem à lua levou {diasViagemLua} dias");
 ```
 
 **Saída**:

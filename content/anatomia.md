@@ -39,7 +39,7 @@ Vejamos o conteúdo de `ExemploConsole.csproj`:
 
  <PropertyGroup>
    <OutputType>Exe</OutputType>
-   <TargetFramework>net6.0</TargetFramework>
+   <TargetFramework>net10.0</TargetFramework>
    <ImplicitUsings>enable</ImplicitUsings>
    <Nullable>enable</Nullable>
  </PropertyGroup>
@@ -70,7 +70,7 @@ Microsoft(R) Build Engine versão 16.4.0+e901037fe para .NET Core
 Copyright (C) Microsoft Corporation. Todos os direitos reservados.
 
   Restauração concluída em 31,92 ms para C:\Users\ermogenes\Desktop\code\ExemploConsole\ExemploConsole.csproj.
-  ExemploConsole -> C:\Users\ermogenes\Desktop\code\ExemploConsole\bin\Debug\netcoreapp3.1\ExemploConsole.dll
+  ExemploConsole -> C:\Users\ermogenes\Desktop\code\ExemploConsole\bin\Debug\net10.0\ExemploConsole.dll
 
 Compilação com êxito.
     0 Aviso(s)
@@ -84,7 +84,7 @@ Foi criada a pasta `bin`.
 
 ![](000032.png)
 
-Dentro dela, em `bin\Debug\net6.0` encontramos os assemblies.
+Dentro dela, em `bin\Debug\net10.0` encontramos os assemblies.
 
 ![](000033.png)
 

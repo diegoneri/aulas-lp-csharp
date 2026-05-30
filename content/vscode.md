@@ -63,7 +63,9 @@ Através da aba `Extensions`
 Algumas extensões notáveis:
 
 - Pacote de Idioma Português Brasileiro - `ms-ceintl.vscode-language-pack-pt-br`
-- C# - `ms-dotnettools.csharp` - extensão oficial da Microsoft para C#
+- C# Dev Kit - `ms-dotnettools.csdevkit` - kit de extensões oficiais da Microsoft para C#
+    - C# - `ms-dotnettools.csharp` - extensão oficial da Microsoft para C#
+    - .NET Install Tool - `ms-dotnettools.vscode-dotnet-runtime` - extensão para gerenciamento das SDK's
 - Dracula Official - `dracula-theme.theme-dracula` - Tema Dracula [https://draculatheme.com/](https://draculatheme.com/)
 - Material Icon Theme - `pkief.material-icon-theme` - Pacote de ícones para diferentes tipos de arquivos
 - Power Mode - `hoovercj.vscode-power-mode` - Efeitos ao digitar

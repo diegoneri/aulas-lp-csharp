@@ -109,19 +109,8 @@ Feito por **Ermogenes** na _Etec Adolpho Berezin_.
 Salve e altere a mensagem exibida em `Program.cs`.
 
 ```cs
-using System;
-
-namespace primeiro_programa_em_cs
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Agora eu já sei usar versionamento com git!");
-        }
-    }
-}
+Console.WriteLine("Hello World!");
+Console.WriteLine("Agora eu já sei usar versionamento com git!");
 ```
 
 Salve o arquivo.

@@ -8,7 +8,7 @@ Para publicar a versão atual do projeto use:
 dotnet publish -c Release
 ```
 
-Será criada uma pasta em `bin\Release\net9.0\publish` com o conteúdo a ser distribuído.
+Será criada uma pasta em `bin\Release\net10.0\publish` com o conteúdo a ser distribuído.
 
 Para executar, acessa essa pasta e digite:
 
