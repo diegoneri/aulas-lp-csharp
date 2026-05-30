@@ -73,76 +73,65 @@ Console.WriteLine(Math.Sign(17));          // 1
 Programa da [vídeo-aula](https://youtu.be/2WdAlMvExE8):
 
 ```cs
-using System;
+// Operadores aritméticos
+Console.WriteLine("--- Operadores aritméticos");
+double x = 5;
+double y = -3;
+double soma = x + y;
+double diferenca = x - y;
+double produto = x * y;
+double quociente = x / y;
+Console.WriteLine($"{x} + {y} = {soma}");
+Console.WriteLine($"{x} - {y} = {diferenca}");
+Console.WriteLine($"{x} * {y} = {produto}");
+Console.WriteLine($"{x} / {y} = {quociente}");
 
-namespace AulaOperacoes
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Operadores aritméticos
-            Console.WriteLine("--- Operadores aritméticos");
-            double x = 5;
-            double y = -3;
-            double soma = x + y;
-            double diferenca = x - y;
-            double produto = x * y;
-            double quociente = x / y;
-            Console.WriteLine($"{x} + {y} = {soma}");
-            Console.WriteLine($"{x} - {y} = {diferenca}");
-            Console.WriteLine($"{x} * {y} = {produto}");
-            Console.WriteLine($"{x} / {y} = {quociente}");
+// Precedência
+Console.WriteLine("--- Precedência");
+double n1 = 2, n2 = 3, n3 = 1;
+double r1 = n1 * n2 + n3;
+double r2 = n1 * (n2 + n3);
+double r3 = (n1 * n2) + n3;
+double r4 = ((n1 * n2) + n3) / n1;
+Console.WriteLine($"{n1} * {n2} + {n3} = {r1}");
+Console.WriteLine($"{n1} * ({n2} + {n3}) = {r2}");
+Console.WriteLine($"({n1} * {n2}) + {n3} = {r3}");
+Console.WriteLine($"(({n1} * {n2}) + {n3}) / {n1} = {r4}");
 
-            // Precedência
-            Console.WriteLine("--- Precedência");
-            double n1 = 2, n2 = 3, n3 = 1;
-            double r1 = n1 * n2 + n3;
-            double r2 = n1 * (n2 + n3);
-            double r3 = (n1 * n2) + n3;
-            double r4 = ((n1 * n2) + n3) / n1;
-            Console.WriteLine($"{n1} * {n2} + {n3} = {r1}");
-            Console.WriteLine($"{n1} * ({n2} + {n3}) = {r2}");
-            Console.WriteLine($"({n1} * {n2}) + {n3} = {r3}");
-            Console.WriteLine($"(({n1} * {n2}) + {n3}) / {n1} = {r4}");
+// Divisão inteira
+Console.WriteLine("--- Divisão inteira");
+int a = 7;
+int b = 2;
+int quocienteInteiro = a / b;
+int restoInteiro = a % b;       // % = módulo ou resto
+Console.WriteLine($"{a} / {b} = {quocienteInteiro}");
+Console.WriteLine($"{a} % {b} = {restoInteiro}");
 
-            // Divisão inteira
-            Console.WriteLine("--- Divisão inteira");
-            int a = 7;
-            int b = 2;
-            int quocienteInteiro = a / b;
-            int restoInteiro = a % b;       // % = módulo ou resto
-            Console.WriteLine($"{a} / {b} = {quocienteInteiro}");
-            Console.WriteLine($"{a} % {b} = {restoInteiro}");
+// Funções matemáticas
+double doisAoCubo = Math.Pow(2, 3);   // 2³ = 8 ==> 2 * 2 * 2
+double raizQuadradaDeDois = Math.Sqrt(2); // Square Root, √2 = 1.41...
+Console.WriteLine($"2³ = {doisAoCubo}");
+Console.WriteLine($"√2 = {raizQuadradaDeDois}");
 
-            // Funções matemáticas
-            double doisAoCubo = Math.Pow(2, 3);   // 2³ = 8 ==> 2 * 2 * 2
-            double raizQuadradaDeDois = Math.Sqrt(2); // Square Root, √2 = 1.41...
-            Console.WriteLine($"2³ = {doisAoCubo}");
-            Console.WriteLine($"√2 = {raizQuadradaDeDois}");
+// Funções trigonométricas
+Console.WriteLine("--- Funções trigonométricas");
+double pi = Math.PI;                           // 3,14...
+double seno30 = Math.Sin(30 * pi / 180);       // 1/2
+double cosseno60 = Math.Cos(60 * pi / 180);    // 1/2
+double tangente45 = Math.Tan(45 * pi / 180);    // 1
+Console.WriteLine($"π = {pi}");
+Console.WriteLine($"seno de 30° = {seno30}");
+Console.WriteLine($"cosseno de 60° = {cosseno60}");
+Console.WriteLine($"tangente de 45° = {tangente45}");
 
-            // Funções trigonométricas
-            Console.WriteLine("--- Funções trigonométricas");
-            double pi = Math.PI;                           // 3,14...
-            double seno30 = Math.Sin(30 * pi / 180);       // 1/2
-            double cosseno60 = Math.Cos(60 * pi / 180);    // 1/2
-            double tangente45 = Math.Tan(45 * pi / 180);    // 1
-            Console.WriteLine($"π = {pi}");
-            Console.WriteLine($"seno de 30° = {seno30}");
-            Console.WriteLine($"cosseno de 60° = {cosseno60}");
-            Console.WriteLine($"tangente de 45° = {tangente45}");
-
-            // Arredondamento
-            Console.WriteLine("--- Arredondamento");
-            double piArredondado6 = Math.Round(pi, 6);
-            double piArredondado2 = Math.Round(pi, 2);
-            double piArredondado0 = Math.Round(pi, 0);
-            Console.WriteLine($"π com 6 casas = {piArredondado6:N10}");
-            Console.WriteLine($"π com 2 casas = {piArredondado2:N10}");
-            Console.WriteLine($"π com 0 casas = {piArredondado0:N10}");
-        }
-    }
-}
+// Arredondamento
+Console.WriteLine("--- Arredondamento");
+double piArredondado6 = Math.Round(pi, 6);
+double piArredondado2 = Math.Round(pi, 2);
+double piArredondado0 = Math.Round(pi, 0);
+Console.WriteLine($"π com 6 casas = {piArredondado6:N10}");
+Console.WriteLine($"π com 2 casas = {piArredondado2:N10}");
+Console.WriteLine($"π com 0 casas = {piArredondado0:N10}");
 ```
 
 **Saída**:

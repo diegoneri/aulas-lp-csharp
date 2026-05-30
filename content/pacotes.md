@@ -31,7 +31,7 @@ Há um pacote gratuito chamado `Humanizer` disponível no NuGet que, entre outra
 ```
 PS C:\Users\ermogenes\Desktop\code\Eventos> dotnet list package
 O projeto 'Eventos' tem as seguintes referências de pacote
-   [netcoreapp3.1]: Nenhum pacote foi encontrado para essa estrutura.
+   [net10.0]: Nenhum pacote foi encontrado para essa estrutura.
 ```
 
 Percebe-se que nenhum pacote ainda foi incluído.
@@ -57,7 +57,7 @@ Conferindo se a instalação funcionou:
 ```
 PS C:\Users\ermogenes\Desktop\code\Eventos> dotnet list package
 O projeto 'Eventos' tem as seguintes referências de pacote
-   [netcoreapp3.1]: 
+   [net10.0]: 
    Pacote de Nível Superior      Solicitado   Resolvido
    > Humanizer                   2.7.9        2.7.9
 ```
@@ -95,21 +95,11 @@ Ataque ao WTC: 18 anos atrás
 
 Nosso código completo será:
 ```cs
-using System;
 using Humanizer;
 
-namespace Eventos
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            DateTime evento = new DateTime(2001, 9, 11, 8, 46, 0);
-            Console.Write("Ataque ao WTC: ");
-            Console.WriteLine(evento.Humanize());
-        }
-    }
-}
+DateTime evento = new DateTime(2001, 9, 11, 8, 46, 0);
+Console.Write("Ataque ao WTC: ");
+Console.WriteLine(evento.Humanize());
 ```
 
 Esse pacote contém muitas funcionalidades incrivelmente úteis. Mais detalhes sobre o `Humanizer` [aqui](https://github.com/Humanizr/Humanizer).
@@ -117,43 +107,33 @@ Esse pacote contém muitas funcionalidades incrivelmente úteis. Mais detalhes s
 [Programa da vídeo-aula](https://youtu.be/eTJsDYhs0kE)
 
 ```cs
-using System;
 using Figgle;
 using Humanizer;
 
-namespace AulaPacotes
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Instalando pacotes via NuGet
-            // Fazendo referência a um pacote
-            // Figgle: criando textos em ASCII art
-            Console.WriteLine("--- Figgle: criando textos em ASCII art");
-            string textao = FiggleFonts.Standard.Render("Dev C#");
-            Console.WriteLine(textao);
+// Instalando pacotes via NuGet
+// Fazendo referência a um pacote
+// Figgle: criando textos em ASCII art
+Console.WriteLine("--- Figgle: criando textos em ASCII art");
+string textao = FiggleFonts.Standard.Render("Dev C#");
+Console.WriteLine(textao);
 
-            // Humanizer: humanizando datas
-            Console.WriteLine("--- Humanizer: humanizando datas");
-            DateTime ataqueTorresGemeas = new DateTime(2001, 09, 11, 8, 46, 00);
-            DateTime ataqueTorresGemeas50anos = ataqueTorresGemeas.AddYears(50);
-            string textoAtaqueTorresGemeas = ataqueTorresGemeas.Humanize();
-            string textoAtaqueTorresGemeas50Anos = ataqueTorresGemeas50anos.Humanize();
-            Console.WriteLine($"Ataque às torres gêmeas: {textoAtaqueTorresGemeas}");
-            Console.WriteLine($"50 anos do ataque às torres gêmeas: {textoAtaqueTorresGemeas50Anos}");
+// Humanizer: humanizando datas
+Console.WriteLine("--- Humanizer: humanizando datas");
+DateTime ataqueTorresGemeas = new DateTime(2001, 09, 11, 8, 46, 00);
+DateTime ataqueTorresGemeas50anos = ataqueTorresGemeas.AddYears(50);
+string textoAtaqueTorresGemeas = ataqueTorresGemeas.Humanize();
+string textoAtaqueTorresGemeas50Anos = ataqueTorresGemeas50anos.Humanize();
+Console.WriteLine($"Ataque às torres gêmeas: {textoAtaqueTorresGemeas}");
+Console.WriteLine($"50 anos do ataque às torres gêmeas: {textoAtaqueTorresGemeas50Anos}");
 
-            // Humanizer: humanizando números
-            Console.WriteLine("--- Humanizer: humanizando números");
-            int numero = 321651321;
-            int anoIndependenciaBrasil = 1822;
-            string numeroPorExtenso = numero.ToWords();
-            string anoIndependenciaRomano = anoIndependenciaBrasil.ToRoman();
-            Console.WriteLine($"{numero} => {numeroPorExtenso}");
-            Console.WriteLine($"Independência do Brasil ({anoIndependenciaBrasil}) => {anoIndependenciaRomano}");
-        }
-    }
-}
+// Humanizer: humanizando números
+Console.WriteLine("--- Humanizer: humanizando números");
+int numero = 321651321;
+int anoIndependenciaBrasil = 1822;
+string numeroPorExtenso = numero.ToWords();
+string anoIndependenciaRomano = anoIndependenciaBrasil.ToRoman();
+Console.WriteLine($"{numero} => {numeroPorExtenso}");
+Console.WriteLine($"Independência do Brasil ({anoIndependenciaBrasil}) => {anoIndependenciaRomano}");
 ```
 
 **Saída**:

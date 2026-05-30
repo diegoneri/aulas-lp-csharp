@@ -112,58 +112,47 @@ Você pode utilizar múltiplos blocos `catch` para tratar diferentes tipos de er
 Programa da [vídeo-aula](https://youtu.be/HtVJc_7FzYs):
 
 ```cs
-using System;
+decimal x, y, r;
 
-namespace AulaExcecoes
+try
 {
-    class Program
+    // comandos passíveis de exceção
+    Console.Write("x = ");
+    x = Convert.ToDecimal(Console.ReadLine());
+
+    Console.Write("y = ");
+    y = Convert.ToDecimal(Console.ReadLine());
+
+    if (x < 0 || y < 0)
     {
-        static void Main(string[] args)
-        {
-            decimal x, y, r;
-
-            try
-            {
-                // comandos passíveis de exceção
-                Console.Write("x = ");
-                x = Convert.ToDecimal(Console.ReadLine());
-
-                Console.Write("y = ");
-                y = Convert.ToDecimal(Console.ReadLine());
-
-                if (x < 0 || y < 0)
-                {
-                    throw new ArgumentException("Não são aceitos números negativos.");
-                }
-
-                r = x / y;
-
-                Console.WriteLine($"r = {r:N}");
-            }
-            catch(DivideByZeroException)
-            {
-                Console.WriteLine("Não é possível dividir por zero.");
-            }
-            catch(ArgumentException)
-            {
-                Console.WriteLine("Não são aceitos números negativos.");
-            }            
-            catch(OverflowException)
-            {
-                Console.WriteLine("Número inválido.");
-            }
-            catch(FormatException)
-            {
-                Console.WriteLine("Número em formato inválido.");
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine($"Erro genérico: {ex.Message}");
-                Console.WriteLine($"Tipo: {ex.GetType()}");
-                throw ex;
-            }
-            Console.WriteLine("Final do programa.");
-        }
+        throw new ArgumentException("Não são aceitos números negativos.");
     }
+
+    r = x / y;
+
+    Console.WriteLine($"r = {r:N}");
 }
+catch(DivideByZeroException)
+{
+    Console.WriteLine("Não é possível dividir por zero.");
+}
+catch(ArgumentException)
+{
+    Console.WriteLine("Não são aceitos números negativos.");
+}            
+catch(OverflowException)
+{
+    Console.WriteLine("Número inválido.");
+}
+catch(FormatException)
+{
+    Console.WriteLine("Número em formato inválido.");
+}
+catch(Exception ex)
+{
+    Console.WriteLine($"Erro genérico: {ex.Message}");
+    Console.WriteLine($"Tipo: {ex.GetType()}");
+    throw ex;
+}
+Console.WriteLine("Final do programa.");
 ```

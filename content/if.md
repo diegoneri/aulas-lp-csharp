@@ -345,45 +345,34 @@ string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
 [Programa da vídeo-aula](https://youtu.be/0HPxji8lL_Ms)
 
 ```cs
-using System;
+decimal valorTotal = 1000.00m;
+int quantidadeParcelas;
+string quantidadeDigitada;
+bool numeroValido;
 
-namespace AulaDecisaoSimples
+Console.WriteLine("-- Simulador de Financiamento --\n");
+
+Console.Write("Financiamento de R$1.000,00 em quantas vezes? ");
+
+quantidadeDigitada = Console.ReadLine()!;
+
+numeroValido = Int32.TryParse(quantidadeDigitada, out quantidadeParcelas);
+
+if (!numeroValido)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            decimal valorTotal = 1000.00m;
-            int quantidadeParcelas;
-            string quantidadeDigitada;
-            bool numeroValido;
-
-            Console.WriteLine("-- Simulador de Financiamento --\n");
-
-            Console.Write("Financiamento de R$1.000,00 em quantas vezes? ");
-
-            quantidadeDigitada = Console.ReadLine()!;
-
-            numeroValido = Int32.TryParse(quantidadeDigitada, out quantidadeParcelas);
-
-            if (!numeroValido)
-            {
-                Console.WriteLine("Quantidade de parcelas inválida. Por favor digite um número.");
-            }
-            else if (quantidadeParcelas <= 0 || quantidadeParcelas > 10)
-            {
-                Console.WriteLine($"Não é possível parcelar em {quantidadeParcelas} vez(es).");
-            }
-            else
-            {
-                decimal valorParcela = valorTotal / quantidadeParcelas;
-                Console.WriteLine($"Você pagará {quantidadeParcelas} parcela(s) fixa(s) de {valorParcela:C}.");
-            }
-
-            Console.WriteLine("\nObrigado por utilizar nosso programa!");
-        }
-    }
+    Console.WriteLine("Quantidade de parcelas inválida. Por favor digite um número.");
 }
+else if (quantidadeParcelas <= 0 || quantidadeParcelas > 10)
+{
+    Console.WriteLine($"Não é possível parcelar em {quantidadeParcelas} vez(es).");
+}
+else
+{
+    decimal valorParcela = valorTotal / quantidadeParcelas;
+    Console.WriteLine($"Você pagará {quantidadeParcelas} parcela(s) fixa(s) de {valorParcela:C}.");
+}
+
+Console.WriteLine("\nObrigado por utilizar nosso programa!");
 ```
 
 ## Material oficial

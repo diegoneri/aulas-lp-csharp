@@ -52,7 +52,7 @@
 - [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) 🎁
 - [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md) 🎁
 - [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✅   
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✅
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Templates .NET 10](content/templates-net6.md) ✅
 - [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) 🎁
 - [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) 🎁
 - [📖 GitHub em computadores compartilhados](content/github-login.md) 🎁
@@ -166,9 +166,10 @@ ID | Status | Data        | Conteúdo previsto    | Material de apoio  | Exercí
 
 Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 
-- Kit de desenvolvimento: [.NET SDK 📥](https://dotnet.microsoft.com/download)
+- Kit de desenvolvimento: [.NET 10 SDK 📥](https://dotnet.microsoft.com/download)
 - IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
   - [Para Windows 7](https://code.visualstudio.com/docs/supporting/faq#_can-i-run-vs-code-on-windows-7) use a [versão 1.70.2 📥](https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable)
+  - Extensão recomendada: **C# Dev Kit** (`ms-dotnettools.csdevkit`)
 - Controle de versão: [Git 📥](https://git-scm.com/downloads)
 
 [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
